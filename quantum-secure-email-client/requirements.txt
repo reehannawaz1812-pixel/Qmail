@@ -1,0 +1,8 @@
+pycryptodome
+requests
+mysql-connector-python
+Django
+customtkinter
+djangorestframework
+PyQt5
+qiskit

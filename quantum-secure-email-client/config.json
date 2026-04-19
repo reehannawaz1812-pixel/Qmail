@@ -1,0 +1,19 @@
+{
+    "security": {
+        "encryption_algorithm": "AES",
+        "digital_signature": true,
+        "hash_algorithm": "SHA-256",
+        "key_size": "256"
+    },
+    "ui": {
+        "theme": "Dark",
+        "font_size": "Medium",
+        "layout": "Comfortable"
+    },
+    "system": {
+        "server_url": "http://127.0.0.1:8000",
+        "auto_decrypt": true,
+        "enable_logging": true,
+        "blockchain_logging": false
+    }
+}
